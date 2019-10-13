@@ -1,0 +1,93 @@
+/*all*/
+#nav {
+  border-style: solid;
+  border-width: 2px;
+}
+
+#TextActive {
+  color: white;
+}
+
+#Title {
+  color: white;
+  margin-left: 30px;
+}
+
+#Text {
+  background: white;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  opacity: 0.95;
+  height: 100%;
+}
+
+p {
+  font-size: 12px;
+  margin-left: 20px;
+}
+
+hr {
+  background-color: black;
+  height: 1px;
+  border: 0;
+}
+
+#NTitle {
+  color: white;
+  position: relative;
+  float: left;
+  font-size: 20px;
+}
+h3 {
+  background-color: #333333;
+}
+/*Home*/
+#bgH {
+  background: rgb(200, 50, 50);
+  height: 100%;
+}
+
+#gradNH {
+  background-image: linear-gradient(black, rgb(200, 50, 50));
+  border-radius: 5px;
+  color: white;
+}
+
+#slider1 {
+  margin-left: 6%;
+}
+#slider2 {
+  height: 50%;
+  margin-left: 6%;
+  width: 50%;
+}
+
+#img {
+  height: 120%;
+  width: 120%;
+}
+#imgWZW {
+  height: 65%;
+  width: 65%;
+}
+
+/* Merijn */
+
+#gradNM {
+  background-image: linear-gradient(black, dodgerblue);
+  border-radius: 5px;
+  color: white;
+}
+#bgM {
+  background: dodgerblue;
+  height: 100%;
+}
+#imgWBIM {
+  height: 20%;
+  width: 20%;
+  float: right;
+  border: solid black 2px;
+}
