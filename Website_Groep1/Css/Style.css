@@ -97,3 +97,14 @@ hr {
   float: right;
   border: solid black 2px;
 }
+
+/*Arthur*/
+#bgA2 {
+  background-color: #74f774;
+}
+
+#gradNA2 {
+  background-image: linear-gradient(black, #74f774);
+  border-radius: 5px;
+  color: white;
+}
