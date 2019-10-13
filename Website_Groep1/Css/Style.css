@@ -41,9 +41,15 @@ hr {
   float: left;
   font-size: 20px;
 }
-h3 {
-  background-color: #333333;
+
+#h3Title {
+  background-color: #494d52;
+  color: white;
+  height: 40px;
+  padding-left: 20px;
+  margin-right: 5px;
 }
+
 /*Home*/
 #bgH {
   background: rgb(200, 50, 50);
